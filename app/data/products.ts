@@ -2214,10 +2214,6 @@ export const products: Product[] = [
     badges: ['Edición World Cup 26', 'Tejido Transpirable', 'Diseño Oficial', 'Logos pueden estar distorsionados por derechos de autor']
   },
   {
-    Perfecto, tienes las 65 fotos. Ahora abre el products.ts:
-bashnotepad app\data\products.ts
-Busca id: 72 con Ctrl+F y reemplaza todo el bloque por este:
-ts  {
     id: 72,
     name: 'Equipacion Japón (Versión Animada)',
     category: 'equipaciones',
