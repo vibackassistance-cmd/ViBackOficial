@@ -2217,7 +2217,7 @@ export const products: Product[] = [
     id: 72,
     name: 'Equipacion Japón (Versión Animada)',
     category: 'equipaciones',
-    price: 25,
+    price: 21,
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     image: '/images/japon/Captura de pantalla 2026-04-24 120937.png',
     images: [
