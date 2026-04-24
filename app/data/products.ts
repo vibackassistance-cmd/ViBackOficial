@@ -2219,7 +2219,7 @@ export const products: Product[] = [
     category: 'equipaciones',
     price: 25,
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    image: 'https://i.postimg.cc/MZ5CLWN1/Captura-de-pantalla-2026-04-23-141622.png',
+    image: 'https://i.postimg.cc/XYTc3FFw/Captura-de-pantalla-2026-04-24-120858.png',
     images: [
       'https://i.postimg.cc/XYTc3FFw/Captura-de-pantalla-2026-04-24-120858.png',
       'https://i.postimg.cc/SKCLKs72/Captura-de-pantalla-2026-04-24-120937.png',
@@ -2285,7 +2285,7 @@ export const products: Product[] = [
       'https://i.postimg.cc/nV04rN72/Captura-de-pantalla-2026-04-24-123106.png',
       'https://i.postimg.cc/2j2QygvT/Captura-de-pantalla-2026-04-24-123126.png',
       'https://i.postimg.cc/MZd7HgRr/Captura-de-pantalla-2026-04-24-123344.png',
-      'https://i.postimg.cc/XNQfqtFt/Captura-de-pantalla-2026-04-24-123505.png'
+      'https://i.postimg.cc/XNQfqtFt/Captura-de-pantalla-2026-04-24-123505.png',
     ],
     description: 'Equipación de Japón con diseño animado exclusivo',
     shippingIncluded: true,
